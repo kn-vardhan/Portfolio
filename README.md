@@ -2,7 +2,7 @@
 
 > All about me
 
-A complilation of various things on my skills, qualifications, education, training, and experiences. <br>
+A compilation of various things on my skills, qualifications, education, training, and experiences. <br>
 Get to know more about me by hoping over to the below link...
 
 > https://kn-vardhan.github.io/Portfolio/
